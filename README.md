@@ -20,13 +20,13 @@ _The supporting course covers: Supervised Learning Intro, Decision Trees, Regres
 
 Most of the data one collects doesn’t necessarily fit into nice, labeled categories. Many times not only is data not labeled, but categories are unknown! In this project we will take unstructured data, and then attempt to understand the patterns and natural categories that the data fits into. First you’ll learn about methods that are useful for dealing with data without labels, then you’ll apply this to a dataset of your choice, learning what natural categories sit inside it.
 
-_The supporting course covers: Clustering, Feature Scaling, Feature Selection, Feature Transformation, Semi-Supervised Learning.__
+_The supporting course covers: Clustering, Feature Scaling, Feature Selection, Feature Transformation, Semi-Supervised Learning._
 
 ## Project 4: Train a Smartcab to Drive
 
 A smartcab is a self-driving car from the not-so-distant future that ferries people from one arbitrary location to another. In this project, you will use reinforcement learning to train a smartcab how to drive.
 
-_The supporting course covers: Markov Decision Processes, Reinforcement Learning, and Game Theory.__
+_The supporting course covers: Markov Decision Processes, Reinforcement Learning, and Game Theory._
 
 ## Project 5: Capstone Project
 
